@@ -1,16 +1,38 @@
 1
+joao pessoa
+mangabeira vi
+rua coronel pedro gonzaga de lima, 214
+58058-835
+9999.00
+aluguel
+casa da mopa
+2
+4
+100.00
+89.00
 
-1
-1
-1.000000
-1
-1
-0.000000
-2
+3
+recife
+boa viage
+rua da praia, 24
+57596-99
+2.00
+venda
+terreno de joao tota
+100.00
 
 2
-2
-2.000000
-2
-2
-2.000000
+joao pessoa
+mangabeira
+rua das escoteiros
+580000
+5.00
+Aluguel
+1231231232
+nasdf
+12
+100.00
+1
+100.00
+12
+
